@@ -6,9 +6,6 @@ function App() {
   return (
     <div className="App">
       <Navigation/>
-      <div>
-        Home
-      </div>
     </div>
   );
 }
